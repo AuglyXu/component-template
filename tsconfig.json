@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "outDir": "./build",
+    "noImplicitAny": true,
+    "module": "ESNext",
+    "target": "ESNext",
+    "jsx": "react",
+    "allowJs": true,
+    "sourceMap": true,
+    "declaration": true,
+    "baseUrl": ".",
+    "declarationDir": "./build/types",
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+  },
+  "include": [
+    "./component/**/*",
+    "node_modules/@types/*.d.ts"
+  ]
+}  

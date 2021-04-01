@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`应渲染问候语: "<h1>你好，Jenny！</h1>" 1`] = `"<h1>你好，Jenny！</h1>"`;
+
+exports[`应渲染问候语: "<h1>你好，Margaret！</h1>" 1`] = `"<h1>你好，Margaret！</h1>"`;
+
+exports[`应渲染问候语: "<span>嘿，陌生人</span>" 1`] = `"<span>嘿，陌生人</span>"`;
