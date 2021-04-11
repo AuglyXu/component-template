@@ -1,0 +1,4 @@
+# eslint忽略的文件, 不受eslint检查
+webpack/*.js
+build/*
+server/*.js
