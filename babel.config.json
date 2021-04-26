@@ -16,7 +16,7 @@
     "env": {
         "development": {
             "plugins": [
-                ["import", { "libraryName": "antd", "libraryDirectory": "es", "style": "less" }]
+                ["import", { "libraryName": "antd", "style": "css" }]
             ]
         }
     }
